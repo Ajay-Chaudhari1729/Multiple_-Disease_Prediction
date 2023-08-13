@@ -26,10 +26,12 @@ DATASET
 
 
 Result:
-![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/febc2dcc-779e-4c8f-a7f6-d1c3d6cf8692)
+![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/6578daca-9345-40c1-a172-52649726c231)
+
 
 Frontend page :
-![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/f6fd1abf-1eb0-4e16-a47b-f9a998e1cb4b)
+![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/ce09ac0b-5db1-4099-bb2b-5429ce33aa32)
+
 
 
 
