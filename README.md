@@ -1,12 +1,12 @@
 # Multiple_-Disease_Prediction
-we developed and deploy a web application that allows users to predict the likelihood of three different diseases: Diabetes, Heart Disease, and Parkinson's Disease. The application will be built using the Streamlit framework for creating interactive data science applications
+we developed and deploy a web application that allows users to predict the likelihood of three different diseases: Diabetes, Heart Disease, and Parkinson's Disease. The application will be built using the Streamlit framework for creating interactive data science applications.
+
 ALGORITHM USED
 
+1 : Svm stands for support vector machine, which is a supervised machine learning algorithm used for classification and regression tasks.
 
-Svm stands for support vector machine, which is a supervised machine learning algorithm used for classification and regression tasks.
 
-
-In SVM, the algorithm attempts to find an optimal hyperplane that separates different classes in the feature space. The hyperplane is defined by a subset of training samples called support vectors, which are the data points closest to the decision boundary.
+ In SVM, the algorithm attempts to find an optimal hyperplane that separates different classes in the feature space. The hyperplane is defined by a subset of training samples called support vectors, which are the data points closest to the decision boundary.
 
 
 
