@@ -1,10 +1,11 @@
 # Multiple_-Disease_Prediction
 we developed and deploy a web application that allows users to predict the likelihood of three different diseases: Diabetes, Heart Disease, and Parkinson's Disease. The application will be built using the Streamlit framework for creating interactive data science applications.
 
-3 major diseases: 
-    1: Diabetes
-    2: Heart disease
-    3: Parkinson
+3 major diseases:
+
+1: Diabetes
+ 2: Heart disease
+ 3: Parkinson
 
 
 ALGORITHM USED
@@ -18,7 +19,15 @@ ALGORITHM USED
 
 For classification, SVM can handle both binary and multi-class problems. It uses different kernels (e.g., linear, polynomial, radial basis function) to transform the input features into a higher-dimensional space,
 
+FLOW CHART
+DIABETES PREDICTION MODEL
+
+
+
 ![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/7c78e326-66be-40d9-bb59-711a7dc68b3c)
+
+![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/43880df3-8942-4c3c-81c0-1195fe21e901)
+
 
 DATASET
 ![alt text](https://github.com/Ajay-Chaudhari1729/Multiple_-Disease_Prediction/assets/74807364/0f16851d-e0fc-4454-b7b3-298c6e6d88a3)
