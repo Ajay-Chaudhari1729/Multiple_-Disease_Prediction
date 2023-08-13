@@ -1,4 +1,6 @@
 # Multiple_-Disease_Prediction
+PPT : https://docs.google.com/presentation/d/16RE1epuGpFSTaOadd_6bT95oAFOhSPZs/edit?usp=sharing&ouid=117244846255581253974&rtpof=true&sd=true
+
 we developed and deploy a web application that allows users to predict the likelihood of three different diseases: Diabetes, Heart Disease, and Parkinson's Disease. The application will be built using the Streamlit framework for creating interactive data science applications.
 
 3 major diseases:
